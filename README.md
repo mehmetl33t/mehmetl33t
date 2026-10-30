@@ -4,11 +4,11 @@
 
 <!-- Dinamik Typing Başlık -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=High-Performance+Systems+%26+Backend+Eng;Offensive+Security+%7C+AppSec+%26+Web+Exploitation;Autonomous+Agents+%26+Intelligent+Scrapers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Development+%26+Cyber+Security;Building+Projects+%26+Security+Labs;Continuous+Learning+%26+Exploration" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  Yüksek performanslı mimariler, otonom veri/kazıma motorları ve ofansif uygulama güvenliği üzerine odaklanıyorum. Veriyi en hızlı şekilde işleyen, donanım kaynaklarını optimize eden ve güvenlik açıklarını sömürüp kapatan araçlar geliştiriyorum.
+  Yazılım geliştirme ve siber güvenlik odaklı bir öğrenciyim. Projeler üreterek, sistemlerin işleyişini inceleyerek ve güvenlik lablarında pratik yaparak öğreniyorum.
 </p>
 
 </div>
@@ -26,34 +26,34 @@
 
 ---
 
-### ⚡ Odaklandığım Alanlar
+### ⚡ Neler Yapıyorum?
 
-* 🚀 **Yüksek Hızlı Sistemler & Backend:** C, C++ ve Python ile bellek dostu, mikro-saniye hassasiyetli veri hatları ve çekirdek modüller.
-* 🤖 **Otonom Botlar & Veri Boru Hatları:** Korumaları atlatan akıllı web kazıma (scraping) altyapıları, anlık veri işleme ve otonom karar verici ajanlar.
-* 🎯 **Ofansif Web Güvenliği (AppSec):** Zafiyet analizi, iş mantığı açıkları (business logic flaws), API sızma testleri ve yetkilendirme bypass araştırmaları.
+* 💻 **Yazılım & Algoritma:** C, C++, Python ve Java ile temel programlama pratikleri ve yardımcı araçlar geliştiriyorum.
+* 🛡️ **Siber Güvenlik:** TryHackMe ve PortSwigger lablarında web zafiyetleri ve ağ temelleri üzerine çalışıyorum.
+* 🤖 **Otomasyon & Veri:** Python ile web kazıma (scraping) ve iş akışlarını kolaylaştıran scriptler yazıyorum.
 
 ---
 
-### 🛠️ Teknoloji Yığını
+### 🛠️ Teknolojiler & Araçlar
 
 <div align="center">
 
-| Kategori | Araçlar & Teknolojiler |
+| Alan | Araçlar |
 | :--- | :--- |
 | **Diller** | `C` `C++` `Python` `Java` `SQL` |
-| **Altyapı & Sistem** | `Linux` `Docker` `SQLite` `Git` |
-| **Güvenlik & Analiz** | `Burp Suite` `Wireshark` `Nmap` `Frida` |
+| **Ortam & Sistem** | `Linux` `Docker` `SQLite` `Git` |
+| **Güvenlik** | `Burp Suite` `Wireshark` `Nmap` `Frida` |
 
 </div>
 
 ---
 
-### 📌 Öne Çıkan Projeler
+### 📌 Projeler
 
-* 📈 **Algoritmik Finans & Derinlik Analiz Terminali** — Piyasa hareketlerini ve fon dağılımlarını anlık işleyip filtreleyen yüksek performanslı analiz motoru. `Python` `SQLite`
-* 🕷️ **Otonom Web Kazıma & Bot Altyapısı** — Dinamik korumaları ve engelleri aşarak yapılandırılmamış kaynaklardan yüksek hızlı veri toplayan akıllı otomasyon. `Python` `Docker`
-* ⚡ **Bellek & Çekirdek Sistem Yöneticisi** — Donanıma en yakın seviyede süreç analizi, bellek optimizasyonu ve kaynak tüketim izleme aracı. `C` `C++` `Linux`
-* 🔍 **Recon & Zafiyet Tarama Otomasyonu** — Hedef sistemlerde sızma noktalarını, gizli uç noktaları ve güvenlik açıklarını haritalayan modüler araç seti. `Python` `Burp Suite`
+* 📈 **Finans & Fon Analiz Terminali** — Piyasa ve fon verilerini toplayıp filtreleyen analiz aracı. `Python` `SQLite`
+* 🕷️ **Web Kazıma & Bot Altyapısı** — Farklı kaynaklardan veri çekip düzenleyen otomasyon servisi. `Python` `Docker`
+* ⚡ **Sistem Kaynak & Süreç Yöneticisi** — Bellek ve süreç kullanımını izleyen düşük seviyeli yardımcı araç. `C` `C++` `Linux`
+* 🔍 **Recon & Zafiyet Tarayıcısı** — Hedef sistemlerde temel keşif ve servis kontrolü yapan araç seti. `Python` `Burp Suite`
 
 ---
 
