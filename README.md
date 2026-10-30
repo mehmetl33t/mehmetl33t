@@ -2,40 +2,35 @@
 
 # Selam, ben Mehmet 👋
 
-<!-- Dinamik Daktilo Efekti Başlık -->
+<!-- Dinamik Typing Başlık -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Low-Level+Systems+%7C+Backend+Architecture;Offensive+Security+%7C+AppSec+%26+Reverse+Engineering;Autonomous+Agents+%7C+High-Performance+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=High-Performance+Systems+%26+Backend+Eng;Offensive+Security+%7C+AppSec+%26+Web+Exploitation;Autonomous+Agents+%26+Intelligent+Scrapers" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  Düşük seviyeli sistemler, yüksek frekanslı veri hatları ve ofansif siber güvenlik üzerinde çalışan bir yazılım geliştiriciyim. Donanıma yakın optimizasyonlar ve otonom analiz araçları inşa ediyorum.
+  Yüksek performanslı mimariler, otonom veri/kazıma motorları ve ofansif uygulama güvenliği üzerine odaklanıyorum. Veriyi en hızlı şekilde işleyen, donanım kaynaklarını optimize eden ve güvenlik açıklarını sömürüp kapatan araçlar geliştiriyorum.
 </p>
 
 </div>
 
 ---
 
-### 🛡️ Siber Güvenlik Profilleri & Laboratuvarlar
+### 🛡️ Güvenlik & Lab Profilleri
 
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-mehmetl33t-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mehmetl33t)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger-Web_Security_Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-mehmetl33t-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
-
-<!-- İsteğe bağlı: TryHackMe dinamik rozetin varsa (THM profilinden URL'i alıp ekleyebilirsin):
-<a href="https://tryhackme.com/p/mehmetl33t"><img src="https://tryhackme-badges.s3.amazonaws.com/mehmetl33t.png" alt="TryHackMe Badge" height="40" /></a>
--->
 
 </div>
 
 ---
 
-### 🚀 Neler Üzerinde Çalışıyorum?
+### ⚡ Odaklandığım Alanlar
 
-* ⚡ **Düşük Seviye & Sistem:** C/C++ ile bellek optimizasyonu, soket/ağ programlama ve Linux çekirdek modülleri.
-* 🤖 **Otonom Ajanlar & Veri Boru Hatları:** Gelişmiş veri kazıma (scraping), asenkron veri analizi ve AI destekli iş akışları.
-* 🎯 **Ofansif Güvenlik:** AppSec, statik/dinamik tersine mühendislik, API güvenlik denetimleri ve OSINT araçları.
+* 🚀 **Yüksek Hızlı Sistemler & Backend:** C, C++ ve Python ile bellek dostu, mikro-saniye hassasiyetli veri hatları ve çekirdek modüller.
+* 🤖 **Otonom Botlar & Veri Boru Hatları:** Korumaları atlatan akıllı web kazıma (scraping) altyapıları, anlık veri işleme ve otonom karar verici ajanlar.
+* 🎯 **Ofansif Web Güvenliği (AppSec):** Zafiyet analizi, iş mantığı açıkları (business logic flaws), API sızma testleri ve yetkilendirme bypass araştırmaları.
 
 ---
 
@@ -43,12 +38,11 @@
 
 <div align="center">
 
-| Kategori | Teknolojiler |
+| Kategori | Araçlar & Teknolojiler |
 | :--- | :--- |
-| **Diller** | `C` `C++` `Python` `Java` `Bash` `SQL` |
-| **Backend & Sistem** | `Linux` `Docker` `Flask` `FastAPI` `SQLite` `PostgreSQL` |
-| **Güvenlik & Analiz** | `Burp Suite` `Wireshark` `GDB` `Radare2 / Rizin` `Frida` `Nmap` |
-| **Araçlar & DevOps** | `Git` `GitHub Actions` `Regex` `Vim / NeoVim` |
+| **Diller** | `C` `C++` `Python` `Java` `SQL` |
+| **Altyapı & Sistem** | `Linux` `Docker` `SQLite` `Git` |
+| **Güvenlik & Analiz** | `Burp Suite` `Wireshark` `Nmap` `Frida` |
 
 </div>
 
@@ -56,40 +50,17 @@
 
 ### 📌 Öne Çıkan Projeler
 
-* 📈 **Algoritmik Finans & Fon Analiz Terminali** — BIST ve TEFAS derinlik verilerini otonom toplayıp filtreleyen analiz motoru. `Python` `Flask` `SQLite`
-* 🕷️ **Otonom Veri İndeksleme & Ajan Motoru** — Yapılandırılmamış kaynakları dinamik tarayan, normalize eden yüksek hızlı mikroservis. `Python` `Docker`
-* 🧬 **Tersine Mühendislik & İkili Analiz Yardımcısı** — Bellek haritalama, çağrı grafiği çıkarma ve ikili (binary) inceleme aracı. `C` `C++` `Linux`
-* 🔍 **Recon & Zafiyet Tarama Otomasyonu** — Hedef sistemlerde keşif, servis haritalama ve güvenlik açığı raporlayan modüler CLI. `Bash` `Python`
+* 📈 **Algoritmik Finans & Derinlik Analiz Terminali** — Piyasa hareketlerini ve fon dağılımlarını anlık işleyip filtreleyen yüksek performanslı analiz motoru. `Python` `SQLite`
+* 🕷️ **Otonom Web Kazıma & Bot Altyapısı** — Dinamik korumaları ve engelleri aşarak yapılandırılmamış kaynaklardan yüksek hızlı veri toplayan akıllı otomasyon. `Python` `Docker`
+* ⚡ **Bellek & Çekirdek Sistem Yöneticisi** — Donanıma en yakın seviyede süreç analizi, bellek optimizasyonu ve kaynak tüketim izleme aracı. `C` `C++` `Linux`
+* 🔍 **Recon & Zafiyet Tarama Otomasyonu** — Hedef sistemlerde sızma noktalarını, gizli uç noktaları ve güvenlik açıklarını haritalayan modüler araç seti. `Python` `Burp Suite`
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Aktivitesi
 
 <div align="center">
 
-<!-- cache_seconds=1800 vererek istatistiklerin bayatlamasını engelledik -->
-<img src="https://github-readme-stats.vercel.app/api?username=mehmetl33t&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetl33t&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" height="150" alt="Top Languages" />
-
-<br/>
-
-<!-- Streak Stats (Günlük commit serisi) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetl33t&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 İletişim & Ağ
-
-[![GitHub](https://img.shields.io/badge/GitHub-mehmetl33t-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehmetl33t)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADIN)
-[![Email](https://img.shields.io/badge/E--Posta-mehmet-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail_adresin@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mehmetl33t&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=58a6ff&style=flat-square" +150 alt="Ziyaretçi Sayacı" />
 
 </div>
