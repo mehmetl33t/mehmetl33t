@@ -90,6 +90,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mehmetl33t&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=58a6ff&style=flat-square" alt="Ziyaretçi Sayacı" />
+<img src="https://komarev.com/ghpvc/?username=mehmetl33t&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=58a6ff&style=flat-square" +150 alt="Ziyaretçi Sayacı" />
 
 </div>
