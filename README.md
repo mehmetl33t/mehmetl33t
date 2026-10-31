@@ -26,11 +26,11 @@
 
 ---
 
-### ⚡ Neler Yapıyorum?
+### 🚀 Neler Yapıyorum?
 
 * 💻 **Yazılım & Algoritma:** C, C++, Python ve Java ile temel programlama pratikleri ve yardımcı araçlar geliştiriyorum.
 * 🛡️ **Siber Güvenlik:** TryHackMe ve PortSwigger lablarında web zafiyetleri ve ağ temelleri üzerine çalışıyorum.
-* 🤖 **Otomasyon & Veri:** Python ile web kazıma (scraping) ve iş akışlarını kolaylaştıran scriptler yazıyorum.
+* ⚡ **Otomasyon & Veri:** Python ile web kazıma (scraping) ve iş akışlarını kolaylaştıran scriptler yazıyorum.
 
 ---
 
@@ -48,11 +48,11 @@
 
 ---
 
-### 📌 Projeler
+### 📂 Projeler
 
 * 📈 **Finans & Fon Analiz Terminali** — Piyasa ve fon verilerini toplayıp filtreleyen analiz aracı. `Python` `SQLite`
 * 🕷️ **Web Kazıma & Bot Altyapısı** — Farklı kaynaklardan veri çekip düzenleyen otomasyon servisi. `Python` `Docker`
-* ⚡ **Sistem Kaynak & Süreç Yöneticisi** — Bellek ve süreç kullanımını izleyen düşük seviyeli yardımcı araç. `C` `C++` `Linux`
+* ⚙️ **Sistem Kaynak & Süreç Yöneticisi** — Bellek ve süreç kullanımını izleyen düşük seviyeli yardımcı araç. `C` `C++` `Linux`
 * 🔍 **Recon & Zafiyet Tarayıcısı** — Hedef sistemlerde temel keşif ve servis kontrolü yapan araç seti. `Python` `Burp Suite`
 
 ---
