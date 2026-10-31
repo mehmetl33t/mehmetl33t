@@ -42,7 +42,7 @@
 | :--- | :--- |
 | **Diller** | `C` `C++` `Python` `Java` `SQL` |
 | **Ortam & Sistem** | `Linux` `Docker` `SQLite` `Git` |
-| **Güvenlik** | `Burp Suite` `Wireshark` `Nmap` `Frida` |
+| **Güvenlik** | `Burp Suite` `Wireshark` `Nmap`  |
 
 </div>
 
